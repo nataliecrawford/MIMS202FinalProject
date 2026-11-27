@@ -1,0 +1,486 @@
+filename,hand_labeled,physical_setting_pred,activity_pred,subject_pred,place_recognizable_pred
+amalfi_image1.JPG,no,Coastal,Documenting the location,Nature,None
+amalfi_image2.JPG,yes,Coastal,Putting myself in the frame,People,Hint
+amalfi_image3.JPG,no,Coastal,Putting myself in the frame,People,None
+amalfi_image4.JPG,no,Nature,Documenting the location,Food & Drink,None
+amalfi_image5.JPG,yes,Indoor,Documenting the location,Objects & Text,None
+amalfi_image6.JPG,yes,Coastal,Putting myself in the frame,People,None
+amalfi_image7.JPG,yes,Indoor,Tasting the location,Food & Drink,None
+amalfi_image8.JPG,yes,Coastal,Documenting the location,Nature,None
+amalfi_image9.JPG,no,Indoor,Tasting the location,Food & Drink,None
+amalfi_image10.JPG,yes,Indoor,Documenting the location,Nature,None
+amalfi_image11.JPG,no,Urban,Documenting the location,Objects & Text,Hint
+amalfi_image12.JPG,yes,Indoor,Documenting the location,Built,None
+amalfi_image13.JPG,yes,Urban,Documenting the location,Built,Hint
+amalfi_image14.JPG,yes,Coastal,Documenting the location,Nature,None
+amalfi_image15.JPG,no,Coastal,Putting myself in the frame,People,None
+amalfi_image16.JPG,yes,Indoor,Documenting the location,Built,None
+amalfi_image17.JPG,yes,Nature,Putting myself in the frame,Objects & Text,None
+amalfi_image18.JPG,yes,Coastal,Documenting the location,Nature,None
+amalfi_image19.JPG,yes,Urban,Documenting the location,Objects & Text,Hint
+amalfi_image20.JPG,no,Coastal,Putting myself in the frame,People,None
+amalfi_image21.JPG,yes,Coastal,Documenting the location,Built,Obvious
+amalfi_image22.JPG,no,Nature,Documenting the location,Nature,None
+amalfi_image23.JPG,yes,Urban,Documenting the location,Built,None
+barcelona_image1.JPG,no,Indoor,Tasting the location,Food & Drink,None
+barcelona_image2.JPG,yes,Urban,Documenting the location,Built,None
+barcelona_image3.JPG,yes,Urban,Documenting the location,Built,None
+barcelona_image4.JPG,no,Urban,Sharing the experience,People,None
+barcelona_image5.JPG,no,Nature,Documenting the location,Built,None
+barcelona_image6.JPG,no,Indoor,Documenting the location,Nature,None
+barcelona_image7.JPG,yes,Indoor,Tasting the location,Food & Drink,None
+barcelona_image8.JPG,yes,Indoor,Tasting the location,Food & Drink,None
+barcelona_image9.JPG,no,Indoor,Tasting the location,Food & Drink,None
+barcelona_image10.JPG,no,Nature,Documenting the location,Nature,None
+barcelona_image11.JPG,yes,Urban,Documenting the location,Built,Obvious
+barcelona_image12.JPG,yes,Urban,Putting myself in the frame,People,Hint
+barcelona_image13.JPG,no,Urban,Sharing the experience,People,Obvious
+barcelona_image14.JPG,yes,Urban,Putting myself in the frame,People,Hint
+barcelona_image15.JPG,yes,Nature,Putting myself in the frame,People,None
+barcelona_image16.JPG,yes,Coastal,Documenting the location,Built,Obvious
+barcelona_image17.JPG,yes,Urban,Documenting the location,Built,Hint
+barcelona_image18.JPG,no,Urban,Documenting the location,Objects & Text,Hint
+barcelona_image19.JPG,no,Urban,Documenting the location,Objects & Text,Hint
+barcelona_image20.JPG,yes,Indoor,Tasting the location,Food & Drink,None
+barcelona_image21.JPG,no,Urban,Documenting the location,Built,Hint
+barcelona_image22.JPG,no,Urban,Documenting the location,Built,Obvious
+barcelona_image23.JPG,yes,Urban,Documenting the location,Built,Obvious
+barcelona_image24.JPG,yes,Indoor,Documenting the location,Built,Hint
+barcelona_image25.JPG,yes,Indoor,Documenting the location,Built,Obvious
+barcelona_image26.JPG,no,Urban,Documenting the location,Built,Obvious
+barcelona_image27.JPG,yes,Indoor,Tasting the location,Food & Drink,None
+brussels_image1.JPG,yes,Urban,Putting myself in the frame,People,Obvious
+brussels_image2.JPG,no,Indoor,Putting myself in the frame,People,None
+brussels_image3.JPG,no,Urban,Documenting the location,People,None
+brussels_image4.JPG,no,Indoor,Tasting the location,Food & Drink,None
+brussels_image5.JPG,yes,Urban,Documenting the location,Built,None
+brussels_image6.JPG,yes,Urban,Documenting the location,Nature,Hint
+brussels_image7.JPG,yes,Urban,Sharing the experience,People,Obvious
+brussels_image8.JPG,yes,Indoor,Sharing the experience,People,None
+brussels_image9.JPG,no,Indoor,Documenting the location,Built,None
+brussels_image10.JPG,yes,Indoor,Tasting the location,Food & Drink,Hint
+brussels_image11.JPG,yes,Coastal,Sharing the experience,People,None
+brussels_image12.JPG,yes,Indoor,Tasting the location,Food & Drink,Hint
+brussels_image13.JPG,yes,Urban,Documenting the location,Objects & Text,None
+brussels_image14.JPG,yes,Indoor,Documenting the location,Built,None
+brussels_image15.JPG,no,Indoor,Sharing the experience,People,None
+brussels_image16.JPG,yes,Indoor,Tasting the location,Food & Drink,None
+brussels_image17.JPG,yes,Indoor,Sharing the experience,People,None
+brussels_image18.JPG,yes,Indoor,Documenting the location,Built,None
+brussels_image19.JPG,no,Urban,Tasting the location,Food & Drink,None
+brussels_image20.JPG,yes,Urban,Documenting the location,Built,None
+cinque_image1.JPG,yes,Coastal,Documenting the location,Built,Obvious
+cinque_image2.JPG,yes,Urban,Documenting the location,Objects & Text,None
+cinque_image3.JPG,yes,Nature,Putting myself in the frame,People,None
+cinque_image4.JPG,yes,Coastal,Documenting the location,Built,None
+cinque_image5.JPG,yes,Indoor,Sharing the experience,People,None
+cinque_image6.JPG,no,Urban,Documenting the location,Built,None
+cinque_image7.JPG,no,Indoor,Sharing the experience,People,None
+cinque_image8.JPG,yes,Urban,Documenting the location,Built,None
+cinque_image9.JPG,yes,Indoor,Sharing the experience,People,None
+cinque_image10.JPG,yes,Indoor,Tasting the location,Food & Drink,None
+cinque_image11.JPG,no,Urban,Documenting the location,Built,None
+cinque_image12.JPG,no,Urban,Documenting the location,Built,None
+cinque_image13.JPG,no,Coastal,Sharing the experience,People,None
+cinque_image14.JPG,yes,Urban,Documenting the location,Built,None
+cinque_image15.JPG,yes,Urban,Documenting the location,Built,None
+cinque_image16.JPG,yes,Urban,Documenting the location,Built,Hint
+cinque_image17.JPG,yes,Coastal,Documenting the location,Built,Hint
+cinque_image18.JPG,yes,Urban,Documenting the location,Objects & Text,None
+cinque_image19.JPG,no,Coastal,Documenting the location,Nature,None
+cinque_image20.JPG,yes,Urban,Putting myself in the frame,People,Obvious
+dublin_image1.JPG,yes,Urban,Sharing the experience,People,None
+dublin_image2.JPG,yes,Coastal,Sharing the experience,People,None
+dublin_image3.JPG,yes,Indoor,Documenting the location,Built,None
+dublin_image4.JPG,no,Urban,Documenting the location,Objects & Text,Hint
+dublin_image5.JPG,yes,Indoor,Tasting the location,Food & Drink,None
+dublin_image6.JPG,yes,Urban,Putting myself in the frame,People,None
+dublin_image7.JPG,yes,Nature,Documenting the location,Built,None
+dublin_image8.JPG,no,Indoor,Tasting the location,Food & Drink,None
+dublin_image9.JPG,yes,Urban,Putting myself in the frame,People,None
+dublin_image10.JPG,yes,Indoor,Documenting the location,Built,Obvious
+dublin_image11.JPG,yes,Indoor,Documenting the location,Objects & Text,Hint
+dublin_image12.JPG,no,Indoor,Documenting the location,Objects & Text,None
+dublin_image13.JPG,yes,Urban,Putting myself in the frame,People,None
+dublin_image14.JPG,yes,Indoor,Tasting the location,Food & Drink,None
+dublin_image15.JPG,yes,Urban,Documenting the location,Built,Hint
+dublin_image16.JPG,yes,Nature,Putting myself in the frame,People,Hint
+dublin_image17.JPG,yes,Indoor,Documenting the location,Built,None
+edinburgh_image1.JPG,yes,Nature,Documenting the location,Nature,None
+edinburgh_image2.JPG,no,Coastal,Documenting the location,Nature,Hint
+edinburgh_image3.JPG,no,Nature,Sharing the experience,People,None
+edinburgh_image4.JPG,yes,Urban,Documenting the location,Built,Hint
+edinburgh_image5.JPG,yes,Urban,Documenting the location,Built,None
+edinburgh_image6.JPG,yes,Urban,Tasting the location,Food & Drink,Hint
+edinburgh_image7.JPG,yes,Urban,Documenting the location,Objects & Text,Hint
+edinburgh_image8.JPG,no,Indoor,Tasting the location,Food & Drink,None
+edinburgh_image9.JPG,yes,Urban,Documenting the location,Built,None
+edinburgh_image10.JPG,yes,Urban,Documenting the location,Built,None
+edinburgh_image11.JPG,no,Urban,Documenting the location,Built,Hint
+edinburgh_image12.JPG,yes,Urban,Documenting the location,Built,Hint
+edinburgh_image13.JPG,no,Urban,Documenting the location,Built,None
+edinburgh_image14.JPG,yes,Indoor,Tasting the location,Food & Drink,None
+edinburgh_image15.JPG,yes,Urban,Documenting the location,Built,Hint
+edinburgh_image16.JPG,no,Coastal,Sharing the experience,People,None
+edinburgh_image17.JPG,yes,Urban,Documenting the location,Nature,None
+edinburgh_image18.JPG,yes,Urban,Documenting the location,Built,Hint
+edinburgh_image19.JPG,yes,Indoor,Documenting the location,Built,None
+edinburgh_image20.JPG,yes,Indoor,Tasting the location,Food & Drink,None
+edinburgh_image21.JPG,no,Indoor,Tasting the location,Food & Drink,None
+edinburgh_image22.JPG,no,Indoor,Tasting the location,Food & Drink,None
+florence_image1.JPG,no,Nature,Documenting the location,Objects & Text,Hint
+florence_image2.JPG,no,Urban,Documenting the location,Objects & Text,None
+florence_image3.JPG,no,Nature,Documenting the location,Nature,Hint
+florence_image4.JPG,no,Nature,Documenting the location,Built,None
+florence_image5.JPG,no,Urban,Documenting the location,Nature,Hint
+florence_image6.JPG,yes,Nature,Documenting the location,Built,None
+florence_image7.JPG,yes,Indoor,Documenting the location,Built,None
+florence_image8.JPG,yes,Urban,Putting myself in the frame,Built,None
+florence_image9.JPG,yes,Indoor,Tasting the location,Food & Drink,None
+florence_image10.JPG,yes,Indoor,Tasting the location,Food & Drink,None
+florence_image11.JPG,no,Indoor,Documenting the location,Objects & Text,None
+florence_image12.JPG,yes,Urban,Documenting the location,Built,None
+florence_image13.JPG,yes,Indoor,Documenting the location,Built,Obvious
+florence_image14.JPG,yes,Urban,Documenting the location,Objects & Text,None
+florence_image15.JPG,no,Urban,Putting myself in the frame,People,None
+florence_image16.JPG,yes,Urban,Putting myself in the frame,People,None
+florence_image18.JPG,yes,Urban,Documenting the location,Built,Hint
+florence_image19.JPG,no,Indoor,Tasting the location,Food & Drink,None
+florence_image20.JPG,no,Urban,Sharing the experience,People,None
+florence_image21.JPG,yes,Urban,Documenting the location,Objects & Text,None
+florence_image22.JPG,yes,Indoor,Tasting the location,Food & Drink,None
+florence_image23.JPG,yes,Urban,Putting myself in the frame,People,None
+florence_image24.JPG,yes,Nature,Documenting the location,Nature,Hint
+florence_image25.JPG,no,Urban,Documenting the location,Built,Hint
+florence_image26.JPG,yes,Indoor,Documenting the location,Food & Drink,None
+galway_image1.JPG,no,Urban,Sharing the experience,People,Hint
+galway_image2.JPG,yes,Urban,Documenting the location,Built,None
+galway_image3.JPG,no,Coastal,Documenting the location,Built,Obvious
+galway_image4.JPG,no,Coastal,Sharing the experience,People,Obvious
+galway_image5.JPG,yes,Indoor,Sharing the experience,People,None
+galway_image6.JPG,no,Indoor,Tasting the location,Food & Drink,None
+galway_image7.JPG,yes,Urban,Documenting the location,Built,Hint
+galway_image8.JPG,yes,Coastal,Documenting the location,Built,Obvious
+galway_image9.JPG,no,Coastal,Putting myself in the frame,People,Obvious
+galway_image10.JPG,no,Indoor,Sharing the experience,People,None
+galway_image11.JPG,yes,Coastal,Sharing the experience,People,Obvious
+galway_image12.JPG,yes,Coastal,Putting myself in the frame,People,Obvious
+galway_image13.JPG,yes,Coastal,Documenting the location,Built,None
+galway_image14.JPG,yes,Coastal,Sharing the experience,Nature,None
+galway_image15.JPG,yes,Indoor,Sharing the experience,People,None
+galway_image16.JPG,no,Urban,Documenting the location,Objects & Text,Hint
+galway_image17.JPG,yes,Nature,Documenting the location,Built,None
+galway_image18.JPG,no,Coastal,Documenting the location,Nature,None
+galway_image19.JPG,yes,Coastal,Documenting the location,Built,None
+galway_image20.JPG,yes,Coastal,Documenting the location,Nature,None
+galway_image21.JPG,no,Coastal,Sharing the experience,People,None
+galway_image22.JPG,no,Coastal,Putting myself in the frame,People,None
+galway_image23.JPG,yes,Coastal,Sharing the experience,People,None
+galway_image24.JPG,no,Indoor,Sharing the experience,People,None
+galway_image25.JPG,yes,Indoor,Putting myself in the frame,People,None
+galway_image26.PNG,yes,Indoor,Sharing the experience,People,None
+genoa_image1.JPG,no,Urban,Documenting the location,Built,None
+genoa_image2.JPG,yes,Indoor,Documenting the location,Nature,None
+genoa_image3.JPG,yes,Urban,Documenting the location,Objects & Text,None
+genoa_image4.JPG,yes,Indoor,Tasting the location,Food & Drink,None
+genoa_image5.JPG,no,Indoor,Tasting the location,Food & Drink,None
+genoa_image6.JPG,yes,Coastal,Documenting the location,Food & Drink,Obvious
+genoa_image7.JPG,yes,Indoor,Documenting the location,Built,None
+genoa_image8.JPG,no,Indoor,Documenting the location,Food & Drink,None
+genoa_image9.JPG,yes,Indoor,Documenting the location,Built,None
+genoa_image10.JPG,no,Urban,Documenting the location,Built,Hint
+genoa_image11.JPG,yes,Indoor,Tasting the location,Food & Drink,None
+genoa_image12.JPG,yes,Indoor,Documenting the location,Nature,None
+genoa_image13.JPG,yes,Urban,Documenting the location,Built,None
+genoa_image14.JPG,yes,Urban,Documenting the location,Built,Obvious
+genoa_image15.JPG,no,Urban,Documenting the location,Built,Obvious
+genoa_image16.JPG,yes,Urban,Documenting the location,Built,None
+genoa_image17.JPG,yes,Urban,Documenting the location,Built,None
+genoa_image18.JPG,yes,Indoor,Tasting the location,Food & Drink,None
+genoa_image19.JPG,yes,Indoor,Tasting the location,Food & Drink,None
+lake_image1.JPG,yes,Urban,Documenting the location,Objects & Text,None
+lake_image2.JPG,yes,Urban,Documenting the location,Built,Hint
+lake_image3.JPG,yes,Urban,Documenting the location,Objects & Text,None
+lake_image4.JPG,yes,Indoor,Tasting the location,Food & Drink,Hint
+lake_image5.JPG,yes,Indoor,Documenting the location,Food & Drink,None
+lake_image6.jpg,no,Indoor,Documenting the location,Built,None
+lake_image7.JPG,yes,Urban,Sharing the experience,Built,None
+lake_image8.JPG,yes,Nature,Documenting the location,Nature,None
+lake_image9.JPG,no,Urban,Documenting the location,Nature,None
+lake_image10.JPG,yes,Indoor,Documenting the location,Built,None
+lake_image11.JPG,yes,Nature,Putting myself in the frame,People,None
+lake_image12.JPG,no,Nature,Documenting the location,Nature,None
+lake_image13.JPG,yes,Nature,Sharing the experience,People,None
+lake_image14.JPG,no,Nature,Documenting the location,Nature,None
+lake_image15.JPG,no,Nature,Documenting the location,Built,None
+lake_image16.JPG,no,Nature,Documenting the location,Nature,None
+lake_image17.JPG,yes,Indoor,Sharing the experience,People,None
+lake_image18.JPG,no,Indoor,Documenting the location,Built,None
+lake_image19.JPG,yes,Indoor,Sharing the experience,Objects & Text,None
+lake_image20.JPG,yes,Urban,Documenting the location,Built,None
+lake_image21.JPG,yes,Indoor,Documenting the location,Food & Drink,None
+lake_image22.JPG,no,Indoor,Documenting the location,Objects & Text,None
+lake_image23.JPG,no,Urban,Documenting the location,Built,Hint
+lake_image24.JPG,yes,Indoor,Documenting the location,Objects & Text,None
+leeds_image1.JPG,no,Urban,Documenting the location,Built,Hint
+leeds_image2.JPG,no,Indoor,Sharing the experience,People,None
+leeds_image3.JPG,no,Urban,Documenting the location,Built,Hint
+leeds_image4.JPG,no,Urban,Tasting the location,Food & Drink,None
+leeds_image5.JPG,no,Indoor,Sharing the experience,People,None
+leeds_image6.JPG,no,Indoor,Tasting the location,Food & Drink,None
+leeds_image7.JPG,no,Urban,Documenting the location,Built,None
+leeds_image8.JPG,no,Indoor,Documenting the location,Nature,None
+leeds_image9.JPG,yes,Indoor,Documenting the location,Nature,None
+leeds_image10.JPG,no,Nature,Documenting the location,Objects & Text,None
+leeds_image11.JPG,yes,Indoor,Sharing the experience,People,None
+leeds_image12.JPG,yes,Indoor,Sharing the experience,People,None
+leeds_image13.JPG,no,Urban,Documenting the location,Built,None
+leeds_image14.jpg,yes,Urban,Putting myself in the frame,People,None
+leeds_image15.JPG,no,Urban,Putting myself in the frame,People,None
+leeds_image16.JPG,yes,Indoor,Sharing the experience,People,None
+leeds_image17.JPG,yes,Indoor,Documenting the location,Nature,None
+leeds_image18.JPG,no,Indoor,Tasting the location,Food & Drink,None
+leeds_image19.JPG,yes,Indoor,Documenting the location,Built,None
+leeds_image20.JPG,yes,Urban,Documenting the location,Built,Hint
+leeds_image21.JPG,yes,Indoor,Sharing the experience,People,None
+leeds_image22.JPG,yes,Indoor,Putting myself in the frame,People,None
+leeds_image23.JPG,no,Indoor,Documenting the location,Built,None
+leeds_image24.JPG,no,Indoor,Documenting the location,Built,Obvious
+leeds_image25.JPG,no,Urban,Documenting the location,Objects & Text,Hint
+leeds_image26.JPG,no,Indoor,Documenting the location,Food & Drink,None
+leeds_image27.JPG,no,Urban,Documenting the location,Built,Hint
+leeds_image28.JPG,no,Urban,Tasting the location,Food & Drink,None
+leeds_image29.JPG,no,Indoor,Sharing the experience,People,None
+leeds_image30.JPG,no,Urban,Sharing the experience,People,None
+leeds_image31.JPG,no,Indoor,Documenting the location,Objects & Text,None
+leeds_image32.JPG,yes,Indoor,Sharing the experience,People,None
+leeds_image33.JPG,no,Indoor,Sharing the experience,People,None
+leeds_image34.JPG,no,Indoor,Sharing the experience,People,None
+leeds_image35.JPG,no,Urban,Documenting the location,Built,None
+leeds_image36.JPG,yes,Urban,Sharing the experience,People,None
+leeds_image37.jpg,no,Indoor,Putting myself in the frame,People,None
+leeds_image38.JPG,no,Urban,Documenting the location,Objects & Text,None
+leeds_image39.JPG,yes,Indoor,Tasting the location,Food & Drink,None
+leeds_image40.JPG,yes,Indoor,Sharing the experience,People,None
+leeds_image41.JPG,no,Indoor,Documenting the location,Objects & Text,None
+leeds_image42.jpg,no,Urban,Putting myself in the frame,People,None
+leeds_image43.jpg,no,Urban,Sharing the experience,People,None
+leeds_image44.JPG,no,Indoor,Putting myself in the frame,People,None
+leeds_image45.JPG,yes,Indoor,Putting myself in the frame,People,None
+leeds_image46.JPG,no,Indoor,Putting myself in the frame,People,None
+leeds_image47.JPG,no,Indoor,Documenting the location,People,None
+lisbon_image1.JPG,yes,Indoor,Sharing the experience,People,None
+lisbon_image2.JPG,yes,Urban,Putting myself in the frame,People,None
+lisbon_image3.JPG,no,Urban,Documenting the location,Objects & Text,None
+lisbon_image4.jpg,no,Nature,Documenting the location,Nature,None
+lisbon_image5.JPG,yes,Urban,Tasting the location,Food & Drink,None
+lisbon_image6.JPG,yes,Urban,Documenting the location,Built,None
+lisbon_image7.JPG,no,Urban,Sharing the experience,People,None
+lisbon_image8.jpg,yes,Urban,Documenting the location,Built,None
+lisbon_image9.JPG,no,Urban,Documenting the location,Nature,Hint
+lisbon_image10.JPG,yes,Urban,Putting myself in the frame,People,Hint
+lisbon_image11.JPG,yes,Urban,Putting myself in the frame,People,None
+lisbon_image12.JPG,yes,Urban,Putting myself in the frame,People,None
+lisbon_image13.jpg,yes,Urban,Documenting the location,People,None
+lisbon_image14.JPG,no,Urban,Documenting the location,Built,None
+lisbon_image15.jpg,yes,Coastal,Documenting the location,Nature,None
+lisbon_image16.JPG,no,Urban,Documenting the location,Built,Hint
+lisbon_image17.JPG,yes,Urban,Documenting the location,Objects & Text,None
+lisbon_image18.JPG,yes,Urban,Documenting the location,Built,None
+lisbon_image19.JPG,no,Indoor,Documenting the location,Objects & Text,None
+lisbon_image20.JPG,no,Indoor,Tasting the location,Food & Drink,None
+lisbon_image21.JPG,yes,Indoor,Tasting the location,Food & Drink,None
+lisbon_image22.jpg,yes,Urban,Putting myself in the frame,People,Hint
+lisbon_image23.JPG,yes,Urban,Putting myself in the frame,People,None
+liverpool_image1.JPG,yes,Nature,Documenting the location,Built,None
+liverpool_image2.JPG,yes,Nature,Sharing the experience,People,None
+liverpool_image3.JPG,yes,Indoor,Documenting the location,Built,None
+liverpool_image4.JPG,yes,Urban,Documenting the location,Built,Hint
+liverpool_image5.JPG,yes,Nature,Documenting the location,Objects & Text,None
+liverpool_image6.JPG,yes,Indoor,Documenting the location,Objects & Text,None
+liverpool_image7.JPG,yes,Indoor,Documenting the location,Objects & Text,None
+liverpool_image8.JPG,yes,Nature,Tasting the location,Food & Drink,None
+liverpool_image9.JPG,yes,Indoor,Documenting the location,Nature,None
+london_image1.JPG,yes,Urban,Documenting the location,Built,Obvious
+london_image2.JPG,no,Urban,Putting myself in the frame,People,None
+london_image3.JPG,yes,Indoor,Tasting the location,Food & Drink,None
+london_image4.JPG,yes,Indoor,Putting myself in the frame,People,None
+london_image5.JPG,yes,Urban,Documenting the location,Built,Hint
+london_image6.JPG,no,Indoor,Documenting the location,Built,None
+london_image7.JPG,yes,Indoor,Sharing the experience,People,None
+london_image8.JPG,no,Urban,Sharing the experience,People,None
+london_image9.JPG,yes,Indoor,Putting myself in the frame,People,None
+london_image10.JPG,no,Indoor,Putting myself in the frame,People,None
+london_image11.JPG,no,Urban,Putting myself in the frame,People,None
+london_image12.JPG,yes,Urban,Putting myself in the frame,People,Obvious
+london_image13.JPG,yes,Urban,Putting myself in the frame,People,Obvious
+london_image14.JPG,yes,Nature,Documenting the location,Built,Obvious
+london_image15.JPG,no,Urban,Tasting the location,Food & Drink,None
+london_image16.JPG,yes,Indoor,Tasting the location,Food & Drink,None
+london_image17.JPG,yes,Urban,Documenting the location,Built,None
+london_image18.JPG,no,Coastal,Putting myself in the frame,People,None
+london_image19.JPG,no,Urban,Documenting the location,Built,None
+london_image20.JPG,no,Coastal,Documenting the location,Built,Hint
+london_image21.JPG,yes,Urban,Putting myself in the frame,People,Hint
+london_image22.JPG,no,Indoor,Documenting the location,Objects & Text,None
+london_image23.JPG,no,Indoor,Putting myself in the frame,People,None
+london_image24.JPG,no,Indoor,Documenting the location,Nature,None
+london_image25.JPG,no,Indoor,Documenting the location,None/Other,None
+london_image26.JPG,yes,Urban,Putting myself in the frame,People,None
+london_image27.JPG,yes,Urban,Documenting the location,Objects & Text,Hint
+london_image28.JPG,yes,Nature,Documenting the location,Built,None
+london_image29.JPG,no,Indoor,Documenting the location,Built,Hint
+london_image30.jpg,no,Urban,Documenting the location,Objects & Text,Hint
+madrid_image1.JPG,yes,Urban,Documenting the location,Built,None
+madrid_image2.JPG,yes,Indoor,Tasting the location,Food & Drink,None
+madrid_image3.JPG,yes,Indoor,Documenting the location,Built,None
+madrid_image4.JPG,yes,Urban,Documenting the location,Objects & Text,None
+madrid_image5.JPG,yes,Nature,Documenting the location,People,None
+madrid_image6.JPG,yes,Nature,Putting myself in the frame,People,None
+madrid_image7.JPG,yes,Nature,Sharing the experience,People,None
+madrid_image8.JPG,yes,Nature,Sharing the experience,People,None
+madrid_image9.JPG,yes,Nature,Sharing the experience,People,None
+madrid_image10.JPG,yes,Nature,Putting myself in the frame,People,None
+madrid_image11.JPG,yes,Nature,Putting myself in the frame,People,None
+madrid_image12.JPG,yes,Indoor,Tasting the location,Food & Drink,None
+madrid_image13.JPG,yes,Indoor,Tasting the location,Food & Drink,None
+madrid_image14.JPG,yes,Urban,Sharing the experience,People,None
+marseille_image1.JPG,no,Coastal,Putting myself in the frame,People,None
+marseille_image2.JPG,no,Urban,Sharing the experience,People,None
+marseille_image3.JPG,no,Nature,Documenting the location,People,None
+marseille_image4.JPG,no,Urban,Putting myself in the frame,People,None
+marseille_image5.JPG,no,Coastal,Documenting the location,Nature,None
+marseille_image6.JPG,yes,Urban,Documenting the location,Built,Hint
+marseille_image7.JPG,yes,Coastal,Sharing the experience,People,Hint
+marseille_image8.JPG,yes,Indoor,Tasting the location,Food & Drink,None
+marseille_image9.JPG,no,Indoor,Tasting the location,Food & Drink,None
+marseille_image10.JPG,no,Nature,Documenting the location,Built,None
+marseille_image11.JPG,yes,Urban,Documenting the location,People,None
+marseille_image12.JPG,no,Urban,Documenting the location,Built,Hint
+marseille_image13.JPG,no,Coastal,Documenting the location,Built,Hint
+marseille_image14.JPG,no,Urban,Sharing the experience,People,None
+marseille_image15.JPG,yes,Coastal,Sharing the experience,People,None
+marseille_image16.JPG,yes,Urban,Documenting the location,Nature,Hint
+marseille_image17.JPG,yes,Nature,Documenting the location,Built,None
+marseille_image18.JPG,no,Urban,Tasting the location,Food & Drink,None
+marseille_image19.JPG,no,Urban,Tasting the location,Food & Drink,None
+marseille_image20.JPG,yes,Urban,Documenting the location,Built,None
+marseille_image21.JPG,yes,Indoor,Sharing the experience,People,None
+marseille_image22.JPG,yes,Urban,Documenting the location,Built,Hint
+marseille_image23.JPG,no,Coastal,Documenting the location,Nature,None
+marseille_image24.JPG,no,Urban,Documenting the location,Built,None
+marseille_image25.JPG,no,Urban,Documenting the location,Objects & Text,Hint
+marseille_image26.JPG,yes,Urban,Documenting the location,Built,None
+marseille_image27.JPG,no,Coastal,Putting myself in the frame,People,None
+marseille_image28.JPG,yes,Coastal,Sharing the experience,People,None
+marseille_image29.JPG,yes,Coastal,Documenting the location,Nature,None
+marseille_image30.JPG,no,Coastal,Documenting the location,Nature,None
+marseille_image31.JPG,yes,Coastal,Documenting the location,Built,None
+marseille_image32.JPG,yes,Coastal,Sharing the experience,People,None
+marseille_image33.JPEG,no,Indoor,Documenting the location,Nature,None
+morocco_image1.JPG,yes,Coastal,Documenting the location,Nature,None
+morocco_image2.JPG,no,Urban,Putting myself in the frame,People,Hint
+morocco_image3.JPG,yes,Nature,Putting myself in the frame,People,None
+morocco_image4.JPG,no,Nature,Putting myself in the frame,People,None
+morocco_image5.JPG,yes,Nature,Putting myself in the frame,People,None
+morocco_image6.JPG,no,Nature,Documenting the location,Nature,Hint
+morocco_image7.JPG,yes,Nature,Putting myself in the frame,People,Obvious
+morocco_image8.JPG,yes,Urban,Documenting the location,Objects & Text,None
+morocco_image9.JPG,no,Nature,Documenting the location,Nature,Hint
+morocco_image10.JPG,no,Nature,Putting myself in the frame,People,Hint
+morocco_image11.JPG,yes,Indoor,Documenting the location,Built,Hint
+morocco_image12.JPG,yes,Indoor,Documenting the location,Built,None
+morocco_image13.JPG,no,Indoor,Documenting the location,Food & Drink,None
+morocco_image14.JPG,yes,Indoor,Documenting the location,Food & Drink,None
+morocco_image15.JPG,yes,Indoor,Documenting the location,Built,None
+morocco_image16.JPG,yes,Urban,Documenting the location,Built,None
+morocco_image17.JPG,yes,Indoor,Documenting the location,Built,None
+morocco_image18.JPG,yes,Indoor,Tasting the location,Food & Drink,Hint
+morocco_image19.JPG,no,Urban,Sharing the experience,People,None
+morocco_image20.JPG,yes,Indoor,Documenting the location,Objects & Text,None
+morocco_image21.JPG,no,Indoor,Tasting the location,Food & Drink,Hint
+morocco_image22.JPG,no,Indoor,Documenting the location,People,None
+morocco_image23.JPG,no,Nature,Putting myself in the frame,People,None
+morocco_image24.JPG,yes,Indoor,Documenting the location,Nature,Hint
+morocco_image25.JPG,yes,Nature,Documenting the location,Nature,None
+nice_image1.JPG,yes,Urban,Putting myself in the frame,People,Hint
+nice_image2.JPG,yes,Urban,Putting myself in the frame,Built,None
+nice_image3.JPG,yes,Urban,Documenting the location,Built,None
+nice_image4.JPG,yes,Urban,Documenting the location,Built,None
+nice_image5.JPG,yes,Indoor,Tasting the location,Food & Drink,Hint
+nice_image6.JPG,yes,Coastal,Documenting the location,Nature,None
+nice_image7.JPG,yes,Coastal,Tasting the location,Food & Drink,None
+nice_image8.JPG,no,Indoor,Tasting the location,Food & Drink,None
+nice_image9.JPG,yes,Coastal,Sharing the experience,People,None
+nice_image10.JPG,yes,Coastal,Documenting the location,Nature,None
+nice_image11.JPG,yes,Urban,Documenting the location,Built,None
+nice_image12.JPG,no,Urban,Documenting the location,Nature,Hint
+nice_image13.JPG,yes,Coastal,Documenting the location,Built,Obvious
+nice_image14.JPG,yes,Coastal,Documenting the location,Nature,None
+nice_image15.JPG,yes,Coastal,Documenting the location,Built,Hint
+nice_image16.JPG,no,Nature,Documenting the location,People,None
+nice_image17.JPG,no,Urban,Putting myself in the frame,People,None
+nice_image18.JPG,yes,Indoor,Documenting the location,People,None
+rome_image1.JPG,no,Urban,Sharing the experience,People,None
+rome_image2.JPG,yes,Indoor,Tasting the location,Food & Drink,None
+rome_image3.JPG,no,Urban,Documenting the location,Built,None
+rome_image4.JPG,no,Urban,Sharing the experience,People,None
+rome_image5.JPG,yes,Urban,Documenting the location,Built,None
+rome_image6.JPG,no,Urban,Documenting the location,Built,Obvious
+rome_image7.JPG,yes,Urban,Documenting the location,Built,None
+rome_image8.JPG,yes,Indoor,Tasting the location,Food & Drink,Hint
+rome_image9.JPG,no,Urban,Documenting the location,Built,None
+rome_image10.JPG,yes,Urban,Documenting the location,Built,Hint
+rome_image11.JPG,no,Urban,Sharing the experience,People,None
+rome_image12.JPG,yes,Urban,Sharing the experience,Built,None
+rome_image13.JPG,yes,Indoor,Tasting the location,Food & Drink,None
+rome_image14.JPG,no,Urban,Putting myself in the frame,People,None
+rome_image15.JPG,no,Indoor,Documenting the location,Objects & Text,None
+rome_image16.JPG,yes,Urban,Documenting the location,Objects & Text,None
+rome_image17.JPG,yes,Urban,Putting myself in the frame,People,None
+rome_image18.JPG,yes,Indoor,Putting myself in the frame,People,None
+rome_image19.JPG,yes,Indoor,Documenting the location,Built,None
+rome_image20.JPG,yes,Indoor,Documenting the location,Food & Drink,None
+rome_image21.JPG,yes,Indoor,Documenting the location,Food & Drink,None
+rome_image22.JPG,no,Urban,Putting myself in the frame,People,None
+rome_image23.JPG,yes,Indoor,Sharing the experience,People,None
+rome_image24.JPG,no,Indoor,Documenting the location,Food & Drink,None
+rome_image25.JPG,no,Indoor,Sharing the experience,People,None
+rome_image26.JPG,yes,Indoor,Tasting the location,Food & Drink,None
+rome_image27.JPG,no,Indoor,Putting myself in the frame,People,None
+santorini_image1.JPG,no,Indoor,Documenting the location,Food & Drink,None
+santorini_image2.JPG,yes,Indoor,Documenting the location,Objects & Text,None
+santorini_image3.JPG,yes,Indoor,Documenting the location,Objects & Text,None
+santorini_image4.JPG,yes,Urban,Documenting the location,Built,None
+santorini_image5.JPG,yes,Coastal,Putting myself in the frame,People,None
+santorini_image6.JPG,yes,Coastal,Putting myself in the frame,People,Obvious
+santorini_image7.JPG,yes,Urban,Documenting the location,Built,None
+santorini_image8.JPG,yes,Indoor,Documenting the location,Objects & Text,Hint
+santorini_image9.JPG,yes,Coastal,Documenting the location,Nature,None
+santorini_image10.JPG,yes,Urban,Documenting the location,Nature,None
+santorini_image11.JPG,no,Indoor,Tasting the location,Food & Drink,None
+santorini_image13.JPG,no,Coastal,Documenting the location,Nature,None
+santorini_image14.JPG,no,Indoor,Tasting the location,Food & Drink,None
+santorini_image15.JPG,yes,Coastal,Documenting the location,Nature,None
+santorini_image16.JPG,yes,Indoor,Tasting the location,Food & Drink,None
+santorini_image17.JPG,yes,Coastal,Putting myself in the frame,People,Obvious
+santorini_image18.JPG,yes,Indoor,Tasting the location,Food & Drink,None
+santorini_image19.JPG,yes,Indoor,Documenting the location,People,None
+york_image1.JPG,no,Indoor,Tasting the location,Food & Drink,None
+york_image2.JPG,yes,Urban,Documenting the location,Built,Hint
+york_image3.JPG,no,Urban,Documenting the location,Objects & Text,None
+york_image4.JPG,yes,Urban,Documenting the location,Built,None
+york_image5.JPG,yes,Urban,Documenting the location,Built,None
+york_image6.JPG,yes,Indoor,Documenting the location,Built,None
+york_image7.JPG,yes,Indoor,Documenting the location,Built,None
+york_image8.JPG,no,Indoor,Documenting the location,Built,None
+york_image9.JPG,no,Indoor,Documenting the location,Built,None
+york_image10.JPG,yes,Urban,Documenting the location,Built,None
+york_image11.JPG,yes,Urban,Documenting the location,Built,None
+york_image12.JPG,yes,Urban,Documenting the location,Food & Drink,None
+york_image13.JPG,yes,Coastal,Documenting the location,Built,None
+york_image14.JPG,yes,Urban,Documenting the location,Objects & Text,None
+york_image15.JPG,yes,Indoor,Documenting the location,Built,Hint
+york_image16.JPG,yes,Urban,Documenting the location,Nature,None
+york_image17.JPG,yes,Urban,Tasting the location,Food & Drink,None
+york_image18.JPG,yes,Nature,Documenting the location,Built,Hint
